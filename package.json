@@ -1,0 +1,24 @@
+{
+  "name": "practica3",
+  "version": "1.0.0",
+  "description": "app de notas nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejf/notas_nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "node",
+    "js"
+  ],
+  "author": "Edgar Alejandro Jarquin Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejf/notas_nodejs/issues"
+  },
+  "homepage": "https://github.com/alejf/notas_nodejs#readme"
+}
